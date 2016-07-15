@@ -1,8 +1,8 @@
 Lansmash SteamCache Dockers
 =======================
 A vagrant box to pull all the required docker containers for a lan
-```
-For a windows/osx machine, install vagrant then:
+For a windows/osx machine, install vagrant: https://www.vagrantup.com/downloads.html
+then after cloning this git repo execute:
 ```
 vagrant up
 ```
